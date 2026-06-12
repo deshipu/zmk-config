@@ -18,8 +18,8 @@
             bindings = <
 &kp EXCL &kp AT &kp HASH &kp DOLLAR &kp PRCNT &kp CARET &kp AMPS &kp ASTRK &kp LPAR &kp RPAR
 &kp 1    &kp 2  &kp 3  &kp 4  &kp 5  &kp 6  &kp 7  &kp 8     &kp 9   &kp 0
-&kp PSCRN &kp LALT(F4) &kp CAPS &kp GRAVE &kp BSLH &kp MINUS &kp EQUAL &kp LBKT &kp RBKT &kp SEMI
-&trans &trans &trans &trans &trans &trans &trans &trans &kp LCTRL(INS) &trans
+&kp PSCRN &kp F4 &kp CAPS &kp GRAVE &kp BSLH &kp MINUS &kp EQUAL &kp LBKT &kp RBKT &kp SEMI
+&trans &trans &trans &trans &trans &trans &trans &trans &kp INS &trans
             >;
         };
         function_layer {
